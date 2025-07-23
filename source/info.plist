@@ -466,7 +466,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string>Fetchinig timezones or checking for an upgrade...</string>
+				<string>Fetching timezones or checking for an upgrade...</string>
 				<key>script</key>
 				<string>./oneUpdater.sh 7
 ./timezone_list.sh "{query}"</string>
